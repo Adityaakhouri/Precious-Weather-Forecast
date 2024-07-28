@@ -1,6 +1,4 @@
-# Precise Weather
-# CODE-MAVERICK
-Microsoft Hackathon
+# Microsoft Hackathon
 # Weather Forecasting Tool
 
 The Weather Forecasting Tool is a command line tool that accepts a city's name as input and returns the current weather forecast. It leverages the OpenWeatherMap API to fetch weather data and parse it using Python.
@@ -47,4 +45,4 @@ Usage:
    - Enter the name of the city for which you want to retrieve the weather forecast.
    - The tool will display the current weather information if available.
 
-Note: The tool uses the metric system for temperature (°K) and pressure (hPa).
+Note: The tool uses the metric system for temperature (°C) and pressure (hPa).
