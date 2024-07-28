@@ -47,4 +47,4 @@ Usage:
    - Enter the name of the city for which you want to retrieve the weather forecast.
    - The tool will display the current weather information if available.
 
-Note: The tool uses the metric system for temperature (°C) and pressure (hPa).
+Note: The tool uses the metric system for temperature (°K) and pressure (hPa).
